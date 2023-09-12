@@ -1,4 +1,5 @@
 node_modules
+.*
 CFUserTextEncoding
 DS_Store
 config/
